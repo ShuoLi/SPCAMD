@@ -1,0 +1,70 @@
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\SPCA.exe.config
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\client_secret.json
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\SPCA.exe
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\SPCA.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Core.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\log4net.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Newtonsoft.Json.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Zlib.Portable.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\BouncyCastle.Crypto.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Core.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Core.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\log4net.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Newtonsoft.Json.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\Zlib.Portable.xml
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\obj\Debug\SPCA.csprojResolveAssemblyReference.cache
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\obj\Debug\SPCA.exe
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\obj\Debug\SPCA.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\AE.Net.Mail.dll
+c:\users\jackson\documents\visual studio 2015\Projects\SPCA\SPCA\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\SPCA.exe.config
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\obj\Debug\SPCA.exe
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\obj\Debug\SPCA.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\client_secret.json
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\SPCA.exe
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\SPCA.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\AE.Net.Mail.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Core.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\log4net.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Zlib.Portable.dll
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Core.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\log4net.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\bin\Debug\Zlib.Portable.xml
+C:\Users\Jackson\Documents\spcamd\SPCA\SPCA\obj\Debug\SPCA.csprojResolveAssemblyReference.cache
